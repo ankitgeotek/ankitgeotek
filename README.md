@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ankit Kumat
-- 👀 I’m interested in Data Analyst
+- 👋 Hi, I’m Ankit Kumar
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently looking to work as Data Analyst
 - 💞
 - 📫You can reach me @- ankitgeotek@gmail.com
